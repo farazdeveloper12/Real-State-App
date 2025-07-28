@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:width="100dp"
+            android:height="100dp"
+            android:viewportWidth="100"
+            android:viewportHeight="100">
+            <path
+                android:fillColor="#4CAF50"
+                android:pathData="M50,15 A35,35,0,1,1,49.99,15 M40,50 L48,58 L65,40"/>
+        </vector>
+    </aapt:attr>
+</animated-vector>

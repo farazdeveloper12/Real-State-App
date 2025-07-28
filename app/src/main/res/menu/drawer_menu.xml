@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="Find Properties" />
+        <item
+            android:id="@+id/nav_saved"
+            android:icon="@drawable/ic_favorite_filled"
+            android:title="My Favorites" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person"
+            android:title="My Account" />
+    </group>
+    <item android:title="Property">
+        <menu>
+            <item
+                android:id="@+id/nav_sell"
+                android:icon="@drawable/ic_sell"
+                android:title="Sell Property" />
+            <item
+                android:id="@+id/nav_rent"
+                android:icon="@drawable/ic_apartment"
+                android:title="Rent Property" />
+            <item
+                android:id="@+id/nav_my_listings"
+                android:icon="@drawable/ic_list"
+                android:title="My Listings" />
+        </menu>
+    </item>
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="Settings" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help"
+                android:title="Help &amp; Support" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

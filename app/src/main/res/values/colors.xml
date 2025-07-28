@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Text Colors -->
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+
+    <!-- Background Colors -->
+    <color name="windowBackground">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Modern Colors -->
+    <color name="modernBlack">#121212</color>
+    <color name="modernGray">#B0B0B0</color>
+    <color name="modernLightGray">#F5F5F5</color>
+    <color name="modernDarkGray">#757575</color>
+
+    <!-- Accent Colors -->
+    <color name="modernBlue">#2196F3</color>
+    <color name="modernGreen">#4CAF50</color>
+    <color name="modernRed">#F44336</color>
+    <color name="modernOrange">#FF9800</color>
+    <color name="modernPurple">#9C27B0</color>
+    <color name="modernWhite">#FFFFFF</color>
+
+    <color name="bottom_nav_item_tint">@android:color/black</color>
+
+    <!-- Existing Colors -->
+    <color name="orange_500">#FF9800</color>
+    <color name="pink_500">#E91E63</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="teal_200">#FF26A69A</color>
+    <color name="teal_700">#FF00695C</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="colorPrimaryLight">#BBDEFB</color>
+    <color name="colorSecondary">#FFC107</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_variant">#018786</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#DDDDDD</color>
+
+    <color name="success_green">#4CAF50</color>
+    <color name="success_green_dark">#388E3C</color>
+
+    <color name="light_blue_background">#E0F7FA</color>
+
+    <color name="google_red">#DB4437</color>
+    <color name="facebook_blue">#4267B2</color>
+    <color name="twitter_blue">#1DA1F2</color>
+    <color name="colorNavActive">#8E44AD</color>
+    <color name="colorNavInactive">#9E9E9E</color>
+    <color name="successGreen">#4CAF50</color>
+    <color name="lightGray">#F5F5F5</color>
+
+
+</resources>
